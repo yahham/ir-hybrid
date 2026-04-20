@@ -1,0 +1,5 @@
+elasticsearch==9.3.0
+pandas==3.0.2
+sentence-transformers==5.4.1
+python-dotenv==1.2.2
+streamlit==1.56.0
